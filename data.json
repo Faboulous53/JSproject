@@ -1,0 +1,26 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.zoomLevel": 1,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": true,
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.endOfLine": "auto",
+    "prettier.tabWidth": 4,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.singleQuote": true,
+    "diffEditor.wordWrap": "on",
+    "workbench.colorTheme": "One Dark Pro",
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveSassCompile.settings.autoprefix": ["> 1%", "last 3 versions"]
+}

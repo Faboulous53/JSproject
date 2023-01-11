@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "pseudo": "Fabien",
+      "message": "ça marche !",
+      "id": 1
+    },
+    {
+      "pseudo": "Fabien",
+      "message": "ça marche !",
+      "id": 2
+    },
+    {
+      "pseudo": "Fabien",
+      "message": "ça marche !",
+      "id": 4
+    }
+  ]
+}
